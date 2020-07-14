@@ -23,8 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-['https://miro.medium.com/fit/c/336/336/1*Y39XzoZIxIS_w6rEsdXkBg.jpeg'](url) and ![Image](src)
-```
+![GitHub Logo](/1_Y39XzoZIxIS_w6rEsdXkBg.jpeg)
+Format: ![Alt Text]('personal_photo')
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
