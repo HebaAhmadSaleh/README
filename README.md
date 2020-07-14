@@ -22,9 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-![GitHub Logo](/1_Y39XzoZIxIS_w6rEsdXkBg.jpeg)
-Format: ![Alt Text]('personal_photo')
+[Link]('https://miro.medium.com/fit/c/336/336/1*Y39XzoZIxIS_w6rEsdXkBg.jpeg') and ![Image](src)	
 
 
 
